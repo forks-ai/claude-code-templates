@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T05:47:38.197427+00:00",
-  "totalJobs": 102,
+  "lastUpdated": "2026-08-02T05:48:36.138772+00:00",
+  "totalJobs": 97,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -8,6 +8,25 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "rok-remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
+      "company": "Magic Compass Limited",
+      "position": "GenAI Engineer AI Builder AI Agent Associate Specialist",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Employment Type: Full-time Contractor, Remote Working Hours: 9:00 AM – 6:00 PM Local Time About the Role We are looking for a proactive GenAI Engineer / AI Builder/ AI Agent Associate / AI Application Specialist to design and build AI-powered workflows and AI Agents that enhance business...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
+      "postedAt": "2026-07-31T08:46:48+00:00",
+      "tags": [
+        "Python",
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "rok-remote-senior-demand-generation-manager-testgorilla-1135606",
       "company": "TestGorilla",
@@ -213,26 +232,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48819370",
-      "company": "Rabbet (YC S17)",
-      "position": "Software Engineer",
-      "location": "REMOTE (TX, NC, CO)",
-      "remote": true,
-      "salary": "",
-      "description": "Rabbet is hiring Sr. Software Engineers to help us streamline construction finances. We offer cloud-based software for commercial lenders and real estate developers to centralize construction finances, automate administrative tasks, and reduce the time spent managing draws. Backend is in Elixir...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48819370",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48819370",
-      "postedAt": "2026-07-07T15:42:29+00:00",
-      "tags": [
-        "React",
-        "PostgreSQL",
-        "AWS",
-        "GCP"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "wwr-vidalytics-ai-automation-engineer-in-house-martech-video-saas",
       "company": "Vidalytics",
       "position": "AI Automation Engineer, In-House MarTech Video SaaS",
@@ -370,49 +369,6 @@
         "Rust",
         "AWS",
         "GCP"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48756639",
-      "company": "Dashdoc",
-      "position": "Software Engineer",
-      "location": "REMOTE / EU",
-      "remote": true,
-      "salary": "€50k–€80k",
-      "description": "Dashdoc is a SaaS Transport Management System for road freight. We help carriers and shippers run transport operations on one shared platform. We’re hiring a product-minded engineer to help us expand in Belgium and the Netherlands. Local specifics: e-CMR mandates, digital waste regulations,...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48756639",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48756639",
-      "postedAt": "2026-07-02T04:41:27+00:00",
-      "tags": [
-        "React",
-        "Python",
-        "Go",
-        "PostgreSQL",
-        "GCP",
-        "Claude Code",
-        "Cursor",
-        "React Native",
-        "Django"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48754933",
-      "company": "Connie Health",
-      "position": "Senior Analytics Engineer",
-      "location": "Boston, MA",
-      "remote": false,
-      "salary": "$150k-$185k",
-      "description": "Connie Health is a fast-growing Medicare brokerage on a mission to empower older Americans to make confident, worry-free Medicare plan decisions. We offer a tech-enabled Medicare navigation platform that combines AI-driven technology with local Medicare experts to help people select optimal...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48754933",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48754933",
-      "postedAt": "2026-07-02T00:34:57+00:00",
-      "tags": [
-        "Rust",
-        "PostgreSQL"
       ],
       "companyIcon": ""
     },
@@ -1213,25 +1169,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48358370",
-      "company": "Cora AI",
-      "position": "AI Engineer",
-      "location": "REMOTE (US ONLY, LA/SF preferred)",
-      "remote": true,
-      "salary": "",
-      "description": "We build customer success agents and account intelligence that do the actual manual work — so CS teams can focus on the relationship-driven work that drives growth. You'll be one of the first engineers. You'll ship voice agents, multi-agent orchestration, RAG pipelines, evals, and account...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48358370",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48358370",
-      "postedAt": "2026-06-01T15:41:41+00:00",
-      "tags": [
-        "Go",
-        "Claude Code",
-        "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48358336",
       "company": "Kepler",
       "position": "Full Stack Engineer",
@@ -1412,23 +1349,6 @@
       "postedAt": "2026-05-04T18:00:21+00:00",
       "tags": [
         "TypeScript",
-        "Python"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48011307",
-      "company": "AirOps",
-      "position": "Software Engineer",
-      "location": "SF · NYC · Montevideo",
-      "remote": false,
-      "salary": "",
-      "description": "Search is being rewritten — buyers ask ChatGPT, Claude, and Perplexity, and the brands cited in those answers win. AirOps is the runtime marketing teams at Ramp, Chime, Carta, and Rippling use to earn those citations: orchestrated LLMs, RAG, JS/Python code steps, evals, human-in-the-loop. Backed by...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48011307",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48011307",
-      "postedAt": "2026-05-04T16:50:57+00:00",
-      "tags": [
         "Python"
       ],
       "companyIcon": ""
@@ -1784,28 +1704,6 @@
       "source": "Anthropic",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
       "postedAt": "2026-04-08T14:58:35-04:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5174747008",
-      "company": "Anthropic",
-      "position": "Staff+ Software Engineer, Full-stack",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "Anthropic’s Product Engineering org is looking for experienced engineers with strong full-stack fundamentals to join one of teams owning our current or emergent products. You'll be a technical leader who thinks holistically about the consumer and/or enterprise end user experience - be that via...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-      "postedAt": "2026-04-08T14:57:51-04:00",
       "tags": [
         "React",
         "TypeScript",
